@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "ShoppingGateWay.ProxyController",
+    "Method": "Customers",
+    "RelativePath": "Customers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShoppingGateWay.ProxyController",
+    "Method": "Orders",
+    "RelativePath": "Orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
